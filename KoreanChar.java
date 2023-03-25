@@ -1,7 +1,7 @@
 package hello;
 
 //➢ do-while 문을 이용하여 ‘가’ 부터 ‘힣’까지 출력하는 프로그램을 작성하시오. (유니코드)
-//➢ 자음이 바뀌면 변경선 표현 “--...--” (https://www.unicode.org/charts/PDF/UAC00.pdf)
+//➢ 자음이 바뀌면 변경선 표현 “--....--” (https://www.unicode.org/charts/PDF/UAC00.pdf)
 
 
 
