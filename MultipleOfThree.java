@@ -1,7 +1,8 @@
 package hello;
 
 //➢ 입력 받은 수가 3의 배수인지 판별하는 프로그램을 작성하시오.
-//➢ MultipleOfThree.java
+
+
 
 import java.util.Scanner;
 
