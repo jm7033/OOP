@@ -1,5 +1,0 @@
-java 1주차 again
-java 2주차 again
-java 3주차 again
-java 4주차 again
-java 5주차 again
