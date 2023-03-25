@@ -19,7 +19,7 @@ public class KoreanChar {
             if (jongSung == 0 || choSung != prevChosung || jongSung != prevJong) {
                 System.out.println("--...--");
             }
-            //출력 후에는 이전 문자의 종성값과 초성값에 현재값을 저장
+            //출력 후에는 이전 문자의 종성값과 초성값에 현재값을 저장.
             prevJong = jongSung;
             prevChosung = choSung; 
             code++;
